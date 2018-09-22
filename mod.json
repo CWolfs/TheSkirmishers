@@ -1,0 +1,9 @@
+{
+  "Name": "The Skirmishers",
+  "Version": "0.1.0",
+  "Enabled": true,
+
+  "Manifest": [
+    { "Type": "PilotDef", "Path": "Pilots\\" }
+  ]
+}
