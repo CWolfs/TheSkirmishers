@@ -2,14 +2,14 @@
   "Description" : {
      "Id" : "pilot_skirmish_23rdcypher",
      "Name" : "23rdCypher",
-     "FirstName" : "Richard",
-     "LastName" : "Griffiths",
+     "FirstName" : " ",
+     "LastName" : " ",
      "Callsign" : "23rdCypher",
      "Gender" : "Male",
      "Faction" : "Davion",
      "Age" : 33,
      "Details" : "23rdCypher is a well known tournament champion.",
-     "Icon" : "Bullhorn"
+     "Icon" : "guiTxrPort_backerEndorf_utr"
   },
   "BaseGunnery" : 4,
   "BonusGunnery" : 0,
@@ -28,15 +28,17 @@
   "Morale" : 0,
   "Voice" : "m_pro07_allan",
   "abilityDefNames" : [
-     "TraitDefWeaponHit1",
-     "TraitDefWeaponHit2",
-     "TraitDefWeaponHit3",
-     "TraitDefMeleeHit1",
-     "TraitDefMeleeHit2",
-     "TraitDefMeleeHit3",   
-     "TraitDefHealthAddOne",
-     "TraitDefRefireReduceOne",
-     "TraitDefOverheatAddFifteen"
+    "TraitDefWeaponHit1",
+    "TraitDefWeaponHit2",
+    "TraitDefWeaponHit3",
+    "TraitDefWeaponHit4",
+    "TraitDefMeleeHit1",
+    "TraitDefMeleeHit2",
+    "TraitDefMeleeHit3",
+    "TraitDefMeleeHit4",
+    "TraitDefHealthAddOne",
+    "TraitDefUnsteadySet60",
+    "TraitDefIndirectReduceOne"
   ],
   "AIPersonality" : "Undefined",
   "PilotTags" : {
