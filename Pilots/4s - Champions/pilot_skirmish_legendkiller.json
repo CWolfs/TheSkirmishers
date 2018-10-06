@@ -1,15 +1,15 @@
 {
   "Description" : {
-     "Id" : "pilot_skirmish_prussian_havoc",
-     "Name" : "Prussian Havoc",
+     "Id" : "pilot_skirmish_legendkiller",
+     "Name" : "LegendKiller",
      "FirstName" : " ",
      "LastName" : " ",
-     "Callsign" : "Prussian Havoc",
+     "Callsign" : "LegendKiller",
      "Gender" : "Male",
      "Faction" : "Davion",
      "Age" : 33,
-     "Details" : "Prussian Havoc is a well known tournament champion.",
-     "Icon" : "guiTxrPort_backerHardie_utr"
+     "Details" : "LegendKiller is a well known tournament champion.",
+     "Icon" : "guiTxrPort_backerKorwes_utr"
   },
   "BaseGunnery" : 4,
   "BonusGunnery" : 0,

@@ -1,14 +1,14 @@
 {
   "Description" : {
      "Id" : "pilot_skirmish_oblom",
-     "Name" : "OBloM",
+     "Name" : "ObLoM",
      "FirstName" : " ",
      "LastName" : " ",
-     "Callsign" : "OBloM",
+     "Callsign" : "ObLoM",
      "Gender" : "Male",
      "Faction" : "Davion",
      "Age" : 33,
-     "Details" : "OBloM is a well known tournament champion.",
+     "Details" : "ObLoM is a well known tournament champion.",
      "Icon" : "guiTxrPort_backerGodfrey_utr"
   },
   "BaseGunnery" : 4,
@@ -35,10 +35,7 @@
     "TraitDefMeleeHit1",
     "TraitDefMeleeHit2",
     "TraitDefMeleeHit3",
-    "TraitDefMeleeHit4",
-    "TraitDefHealthAddOne",
-    "TraitDefUnsteadySet60",
-    "TraitDefIndirectReduceOne"
+    "TraitDefMeleeHit4"
   ],
   "AIPersonality" : "Undefined",
   "PilotTags" : {
