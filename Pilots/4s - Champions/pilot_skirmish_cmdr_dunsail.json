@@ -1,15 +1,15 @@
 {
   "Description" : {
-     "Id" : "pilot_skirmish_prussian_havoc",
-     "Name" : "Prussian Havoc",
+     "Id" : "pilot_skirmish_cmdr_dunsail",
+     "Name" : "Cmdr Dunsail",
      "FirstName" : " ",
      "LastName" : " ",
-     "Callsign" : "Prussian Havoc",
+     "Callsign" : "Cmdr Dunsail",
      "Gender" : "Male",
      "Faction" : "Davion",
      "Age" : 33,
-     "Details" : "Prussian Havoc is a well known tournament champion.",
-     "Icon" : "guiTxrPort_backerHardie_utr"
+     "Details" : "Cmdr Dunsail is a well known tournament champion.",
+     "Icon" : "guiTxrPort_backerNick_utr"
   },
   "BaseGunnery" : 4,
   "BonusGunnery" : 0,

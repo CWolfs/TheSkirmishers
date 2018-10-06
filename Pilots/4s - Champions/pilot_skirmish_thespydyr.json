@@ -35,10 +35,7 @@
     "TraitDefMeleeHit1",
     "TraitDefMeleeHit2",
     "TraitDefMeleeHit3",
-    "TraitDefMeleeHit4",
-    "TraitDefHealthAddOne",
-    "TraitDefUnsteadySet60",
-    "TraitDefIndirectReduceOne"
+    "TraitDefMeleeHit4"
   ],
   "AIPersonality" : "Undefined",
   "PilotTags" : {
